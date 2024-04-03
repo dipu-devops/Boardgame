@@ -50,7 +50,7 @@ jobs:
           trivy fs --format table -o trivy-fs-report.html .
 
 # name: CICD Pipeline
-
+# deep
 # on:
 #   push:
 #     branches: [ "main" ]
